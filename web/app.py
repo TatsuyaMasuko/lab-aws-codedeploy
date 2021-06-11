@@ -9,7 +9,9 @@ def mainmenu():
     return """
     <html>
     <body>
-    <center><h1>Piper CI/CD LAb11-1</h1><br/>
+    <center><h1>Hello World from AWS CodeDeploy.</h1><br/>
+    <h2>Piper CI/CD LAb11-1</h2>
+    <h2>Piper CI/CD LAb11-2</h2>
     </body>
     </html>"""
 
